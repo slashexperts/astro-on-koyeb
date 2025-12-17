@@ -1,3 +1,10 @@
+# Our Architecture
+
+<img width="1017" height="233" alt="Screenshot 2025-12-17 at 9 21 16 PM" src="https://github.com/user-attachments/assets/29d9a0b4-b24a-4565-8ba6-a4fc7c177a39" />
+
+--------------------------------------------------
+
+
 # Astroship - Astro SAAS Starter Website Template
 
 Astroship is a free starter astro website template for saas, startups, marketing websites, landing pages & blogs. Built with Astro & TailwindCSS.
